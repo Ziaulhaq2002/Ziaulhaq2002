@@ -13,10 +13,10 @@ My goal is to learn, grow, and contribute to exciting projects, while also honin
 
 ## Tools & Technologies I Use
 
-- **Programming Languages**: Python, SQL, R
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
+- **Programming Languages**: Python, SQL
+- **Data Visualization**: Power BI, Matplotlib, Seaborn
 - **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn
-- **Database Management**: MySQL, PostgreSQL
+- **Database Management**: MySQL
 - **Version Control**: Git/GitHub
 
 ## Current Focus
